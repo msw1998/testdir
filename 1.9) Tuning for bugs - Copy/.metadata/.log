@@ -1,0 +1,22 @@
+!SESSION 2021-06-17 11:07:54.287 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  C:\Users\Hp\STM32CubeIDE\workspace_1.6.1\New_Pcb\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\Hp\STM32CubeIDE\workspace_1.6.1\New_Pcb\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-06-17 11:08:25.105
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-06-17 11:08:25.165
+!MESSAGE Log4j initialized with config file F:\ahmed\codes for vent\After updating the pcb\.Vent Latest Codes\1.5) FiO2 Included\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-06-17 11:08:28.489
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-06-17 11:08:33.866
+!MESSAGE Indexed 'New_Pcb' (32 sources, 114 headers) in 3.67 sec: 11,028 declarations; 59,050 references; 6 unresolved inclusions; 340 syntax errors; 1,728 unresolved names (2.4%)
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-06-17 11:08:34.112
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
